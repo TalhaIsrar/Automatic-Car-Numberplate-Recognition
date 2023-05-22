@@ -9,9 +9,11 @@ ABSTRACT: This report presents an Automatic Number Plate Recognition (ANPR) syst
 
 INSTRUCTIONS:
 This code required weights to be run. File named best.pt can be downloaded from link given below and is to be pasted in the following directory runs\train\exp\weights
+
 https://drive.google.com/drive/folders/15ITE1Ie5VSsD7TcrRyr1FMXfniuOYljj?usp=sharing
 
 To download the dataset go to the following link and paste the folder license-1 in the same directory as this file:
+
 https://drive.google.com/drive/folders/12-576bd4asdjo4WUkTXAgku3srg66FrB?usp=sharing
 
 To run this place the images you want to test in a directory named test_im in the directory where this file is found and run the following command
